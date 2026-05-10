@@ -1,3 +1,4 @@
+-- La base de datos se crea automáticamente si no existe!!
 CREATE DATABASE IF NOT EXISTS tienda_perritos;
 USE tienda_perritos;
 
